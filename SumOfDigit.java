@@ -14,7 +14,7 @@ public class SumOfDigit
 	sum=sum+rem;
 	no=no/10;
 	}
-	System.out.println("sumis"+sum);
+	System.out.println("sum is the"+sum);
 	}
 	}
 	
